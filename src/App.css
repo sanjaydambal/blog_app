@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+/* App.css */
+.app-container {
+  min-height: 100vh; /* Ensure the container covers at least the height of the viewport */
+  display: flex;
+  flex-direction: column;
+}
 
 @keyframes App-logo-spin {
   from {
