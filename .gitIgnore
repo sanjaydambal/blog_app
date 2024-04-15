@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Editor files
+.vscode/
+
+# macOS directory attributes
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
